@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kalindu Laksahan</h1>
@@ -7,24 +7,25 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[ATS-Train](https://)**
+- 🔭 I’m currently working on **[Rapidventure Business Solution pvt ltd.](https://)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently following a **Data Structur**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://)**
 
-- 📫 How to reach me **mdirfancse2023@gmail.com**
+- 📫 How to reach me **kalilaksahan@gmail.com**
 
-- ⚡ Hobby fact **I use to create Youtube Videos very often.**
+- ⚡ Hobby fact **I use to play guitar often.**
 
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
+    <a href="https://icons8.com/icon/55205/c-sharp-logo">C Sharp Logo icon by Icons8</a>
+     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
     <a style="padding-right:8px;" href="https://sql.org" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/sql.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
