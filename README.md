@@ -54,7 +54,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Kalindu-Laksahan/github-readme-activity-graph"><img alt="Md Irfan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Kalindu-Laksahan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Kalindu-Laksahan/github-readme-activity-graph"><img alt="Kalindu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Kalindu-Laksahan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
