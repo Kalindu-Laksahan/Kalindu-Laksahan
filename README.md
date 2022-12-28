@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently **Open To Work**
 
-- 🌱 I’m currently a fresh Undergraduate at **Sri Lanka Institute of Information Technology (SLIIT)**
+- 🌱 I’m currently a fresh graduate at **Sri Lanka Institute of Information Technology (SLIIT)**
 
 - 👯 My Dream is to be a **Senior Software Engineer** and i'm working on it.
 
